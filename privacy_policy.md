@@ -2,7 +2,7 @@
 _Last updated: 2025-07-04_
 
 **AutoGPS** (“the App”) is published by **Adrian Dediu** (“we”, “our”, “us”).  
-Contact: adediu@autonoma.pt
+
 
 ## 1. Data we collect
 | Category | Examples | Purpose | Stored? |
