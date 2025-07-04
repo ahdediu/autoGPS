@@ -1,7 +1,7 @@
 # AutoGPS – Privacy Policy
 _Last updated: 2025-07-04_
 
-**AutoGPS** (“the App”) is published by **Adrian Dediu**.  
+**AutoGPS** (“the App”) is published by **Departamento de Engenharias e de Ciências da Computação** de **Universidade Autónoma de Lisboa**.  
 
 
 ## 1. Data we collect
