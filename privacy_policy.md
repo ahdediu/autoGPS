@@ -38,4 +38,4 @@ AutoGPS is intended for university students and not directed at children under 1
 We may update this policy. Changes will appear on this page with a new date.
 
 ## 8. Contact
-Questions?  dediuadrianhoria (at) gmail (dot) com
+Questions?  adediu (at) autonoma (dot) pt
