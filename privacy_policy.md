@@ -1,7 +1,7 @@
 # AutoGPS – Privacy Policy
 _Last updated: 2025-07-04_
 
-**AutoGPS** (“the App”) is published by **Adrian Dediu** (“we”, “our”, “us”).  
+**AutoGPS** (“the App”) is published by **Adrian Dediu**.  
 
 
 ## 1. Data we collect
